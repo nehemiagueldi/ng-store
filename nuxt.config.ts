@@ -7,7 +7,7 @@ export default defineNuxtConfig({
       meta:[
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, viewport-fit=cover, initial-scale=1' },
-        { hid: 'description', name: 'description', content: 'Learn NuxtJS' },
+        { hid: 'description', name: 'description', content: 'NG STORE' },
       ]
     }
   },
