@@ -33,7 +33,12 @@ NG STORE is built using the following technologies:
 - [**TailwindCSS**](https://tailwindcss.com): TailwindCSS is a highly customizable, utility-first CSS framework. It enables rapid development and helps create consistent and responsive user interfaces.
 
 - [**DaisyUI**](https://daisyui.com): DaisyUI is a plugin for TailwindCSS that adds a set of beautiful and accessible components to enhance the visual appeal and functionality of the website.
-## Contact
+
+## ☕ Buy me a coffee
+
+[![ko-fi](https://img.shields.io/badge/ko-fi-db2777?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nehemiagueldi) [![sociabuzz](https://img.shields.io/badge/sociabuzz-16a34a?style=for-the-badge&logo=StackBlitz&logoColor=white)](https://sociabuzz.com/nehemiagueldi/donate)
+
+## ☎️ Contact
 
 If you have any questions, concerns, or feedback regarding NG STORE, please feel free to contact me directly via WhatsApp using the provided contact information on the NG STORE website or you can reach out to me through the following channels:
 
