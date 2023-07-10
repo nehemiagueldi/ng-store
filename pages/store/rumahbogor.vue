@@ -54,6 +54,8 @@
                 <p class="text-accent font-mono">> Air : PDAM</p>
                 <p class="text-accent font-mono">> Sertifikat : Sertifikat Hak Milik (SHM)</p>
                 <p class="text-accent font-mono">> Kondisi : Baru</p>
+                <p class="text-accent font-mono">> Dekat dengan Tol Sentul Bogor</p>
+                <p class="text-accent font-mono">> Dekat dengan Tempat Wisata Sentul Bogor</p>
               </div>
 
               <!-- DETAIL 2 -->
@@ -68,7 +70,9 @@
 
               <!-- MAP -->
               <div>
-                <img src="/lokasirumahbogor.png" alt="Lokasi Rumah" class="w-96 mx-auto justify-center rounded-md object-cover" />
+                <NuxtLink to="https://goo.gl/maps/KNuxrBAsGvKhsfxU8" target="_blank">
+                  <img src="/lokasirumahbogor.png" alt="Lokasi Rumah" class="w-96 mx-auto justify-center rounded-md object-cover" />
+                </NuxtLink>
               </div>
 
               <!-- VIDEO -->
