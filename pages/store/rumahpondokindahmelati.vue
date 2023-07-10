@@ -108,7 +108,7 @@
               <!-- CONTACT -->
               <div class="text-center">
                 <h2 class="font-semibold text-base md:text-lg">Jika Anda memiliki pertanyaan atau ingin negosiasi harga, silahkan langsung menghubungi penjual melalui WhatsApp dengan mengklik tombol di bawah ini.</h2>
-                <NuxtLink class="btn btn-accent mt-2" target="_blank" to="https://wa.me/6289515369015?text=Halo, Saya ingin bertanya mengenai Rumah Hook Daerah Jati Asih"> <img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/whatsapp.png" alt="whatsapp" /> Contact Seller </NuxtLink>
+                <NuxtLink class="btn btn-accent mt-2" target="_blank" to="https://wa.me/6289515369015?text=Halo, Saya ingin bertanya mengenai Rumah Daerah Pondok Melati Indah Ibu"> <img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/whatsapp.png" alt="whatsapp" /> Contact Seller </NuxtLink>
                 <h2 class="font-semibold text-base mt-1 md:text-lg">a.n. Maria (Ibu)</h2>
               </div>
             </div>
