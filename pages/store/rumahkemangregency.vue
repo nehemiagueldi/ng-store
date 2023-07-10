@@ -13,70 +13,70 @@
             <!-- IMAGE -->
             <div class="carousel carousel-center max-w-md p-4 space-x-4 bg-neutral items-center rounded-box">
               <div class="carousel-item">
-                <img src="/rumahkemangregency1.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency1.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency2.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency2.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency3.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency3.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency4.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency4.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency5.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency5.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency6.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency6.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency7.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency7.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency8.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency8.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency9.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency9.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency10.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency10.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency11.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency11.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency12.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency12.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency13.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency13.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency14.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency14.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency15.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency15.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency16.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency16.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency17.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency17.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency18.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency18.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency19.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency19.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency20.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency20.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency21.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency21.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
               <div class="carousel-item">
-                <img src="/rumahkemangregency22.jpg" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+                <img src="/rumahkemangregency22.jpg" class="rounded-box w-60 md:w-80 h-80 md:h-96 object-cover" />
               </div>
             </div>
             <!-- INFO FOR SLIDE IMAGE -->

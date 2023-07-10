@@ -91,7 +91,9 @@
 
               <!-- MAP -->
               <div>
-                <img src="/lokasirpg.png" alt="Lokasi Rumah" class="w-96 mx-auto justify-center rounded-md object-cover" />
+                <NuxtLink to="https://goo.gl/maps/DBTyc6Mpinhr7GAk6" target="_blank">
+                  <img src="/lokasirpg.png" alt="Lokasi Rumah" class="w-96 mx-auto justify-center rounded-md object-cover" />
+                </NuxtLink>
               </div>
 
               <!-- VIDEO -->
