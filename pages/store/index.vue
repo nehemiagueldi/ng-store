@@ -1,65 +1,72 @@
 <script setup>
-  const items = ref([
-    // Define your items here
-    {
-      id: 1,
-      image: "rpg1.jpeg",
-      title: "Rumah Hook Daerah Jati Asih",
-      description: "Di Jual Rumah Hook (Pojok) Strategis dengan Suasana Tenang dan Nyaman",
-      link: "/store/rumahjatiasih"
-    },
-    {
-      id: 2,
-      image: "rumahbandung1.png",
-      title: "Rumah Daerah Kab.Bandung",
-      description: "Di Jual Rumah Daerah Kab.Bandung Strategis Bebas Banjir",
-      link: "/store/rumahbandung"
-    },
-    {
-      id: 3,
-      image: "rumahbogor1.png",
-      title: "Rumah Minimalis Daerah Bogor",
-      description: "Di Jual Rumah Minimalis 2 Lantai Strategis dengan Suasana Tenang dan Nyaman",
-      link: "/store/rumahbogor"
-    },
-    // Add more items as needed
-  ]);
+const items = ref([
+  // Define your items here
+  {
+    id: 1,
+    image: "rpg1.jpeg",
+    title: "Rumah Pondok Melati Indah",
+    description: "Di Jual Rumah Daerah Pondok Melati Indah Strategis",
+    link: "/store/rumahpondokindahmelati",
+  },
+  {
+    id: 2,
+    image: "rumahbandung1.png",
+    title: "Rumah Daerah Kab.Bandung",
+    description: "Di Jual Rumah Daerah Kab.Bandung Strategis Bebas Banjir",
+    link: "/store/rumahbandung",
+  },
+  {
+    id: 3,
+    image: "rumahbogor1.png",
+    title: "Rumah Minimalis Daerah Bogor",
+    description: "Di Jual Rumah Minimalis 2 Lantai Strategis dengan Suasana Tenang dan Nyaman",
+    link: "/store/rumahbogor",
+  },
+  {
+    id: 4,
+    image: "rumahkemangregency1.jpg",
+    title: "DiKontrak Rumah Daerah Bogor",
+    description: "DiKontrak Rumah 1 Lantai Strategis dengan Suasana Tenang dan Nyaman",
+    link: "/store/rumahkemangregency",
+  },
+  // Add more items as needed
+]);
 
-  const itemsPerPage = 8; // Number of items to display per page
-  const itemsPerGroup = 4; // Number of items per group
-  const currentPage = ref(1); // Current active page
+const itemsPerPage = 8; // Number of items to display per page
+const itemsPerGroup = 4; // Number of items per group
+const currentPage = ref(1); // Current active page
 
-  const displayedItems = computed(() => {
-    // Calculate the range of items to display based on the current page
-    const startIndex = (currentPage.value - 1) * itemsPerPage;
-    const endIndex = startIndex + itemsPerPage;
-    const slicedItems = items.value.slice(startIndex, endIndex);
-    
-    // Split the sliced items into groups of 4
-    const groups = [];
-    for (let i = 0; i < slicedItems.length; i += itemsPerGroup) {
-      const group = slicedItems.slice(i, i + itemsPerGroup);
-      groups.push(group);
-    }
-    
-    return groups;
-  });
+const displayedItems = computed(() => {
+  // Calculate the range of items to display based on the current page
+  const startIndex = (currentPage.value - 1) * itemsPerPage;
+  const endIndex = startIndex + itemsPerPage;
+  const slicedItems = items.value.slice(startIndex, endIndex);
 
-  const totalPages = computed(() => {
-    // Calculate the total number of pages based on the number of items and items per page
-    return Math.ceil(items.value.length / itemsPerPage);
-  });
-
-  function changePage(page) {
-    // Update the current page when the pagination radio button is changed
-    currentPage.value = page;
+  // Split the sliced items into groups of 4
+  const groups = [];
+  for (let i = 0; i < slicedItems.length; i += itemsPerGroup) {
+    const group = slicedItems.slice(i, i + itemsPerGroup);
+    groups.push(group);
   }
+
+  return groups;
+});
+
+const totalPages = computed(() => {
+  // Calculate the total number of pages based on the number of items and items per page
+  return Math.ceil(items.value.length / itemsPerPage);
+});
+
+function changePage(page) {
+  // Update the current page when the pagination radio button is changed
+  currentPage.value = page;
+}
 </script>
 
 <template>
   <div>
     <!-- ITEM -->
-    <div class="text-center min-h-screen pt-20 md:pt-24 mb-10"> 
+    <div class="text-center min-h-screen pt-20 md:pt-24 mb-10">
       <h1 class="text-center font-bold text-3xl pt-3 uppercase">Items</h1>
       <div class="flex justify-center items-center gap-4 pt-3 px-3 md:px-0 flex-wrap">
         <!-- Display items based on the active page -->

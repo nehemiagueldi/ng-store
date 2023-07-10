@@ -50,6 +50,8 @@
                 <p class="text-accent font-mono">> Luas Bangunan : 54 m2</p>
                 <p class="text-accent font-mono">> Kamar Tidur : 2</p>
                 <p class="text-accent font-mono">> Kamar Mandi : 1</p>
+                <p class="text-accent font-mono">> Listrik : 1300 Watt</p>
+                <p class="text-accent font-mono">> Air : Jet Pump ± 65 m</p>
                 <p class="text-accent font-mono">> Sertifikat : Akte Jual Beli (AJB)</p>
                 <p class="text-accent font-mono">> Kondisi : Bekas</p>
               </div>
@@ -65,7 +67,9 @@
 
               <!-- MAP -->
               <div>
-                <img src="/lokasirumahbandung.png" alt="Lokasi Rumah" class="w-96 mx-auto justify-center rounded-md object-cover" />
+                <NuxtLink to="https://goo.gl/maps/UdVQ5jf2CmBcAX8p9" target="_blank">
+                  <img src="/lokasirumahbandung.png" alt="Lokasi Rumah" class="w-96 mx-auto justify-center rounded-md object-cover" />
+                </NuxtLink>
               </div>
 
               <!-- VIDEO -->

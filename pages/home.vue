@@ -22,10 +22,10 @@ const selectedAccordion = ref("1");
         <div class="card w-72 md:w-80 lg:w-96 bg-base-100 shadow-xl py-3">
           <figure><img src="/rpg1.jpeg" alt="Shoes" class="w-[325px] h-[325px] md:w-[385px] md:h-[385px]" /></figure>
           <div class="card-body">
-            <h2 class="card-title text-lg md:text-xl">Rumah Hook Daerah Jati Asih</h2>
-            <p class="text-sm md:text-base">Di Jual Rumah Hook (Pojok) Strategis dengan Suasana Tenang dan Nyaman</p>
+            <h2 class="card-title text-lg md:text-xl">Rumah Pondok Melati Indah</h2>
+            <p class="text-sm md:text-base">Di Jual Rumah Daerah Pondok Melati Indah Strategis</p>
             <div class="card-actions justify-end">
-              <NuxtLink class="btn btn-primary" to="/store/rumahjatiasih">View Details</NuxtLink>
+              <NuxtLink class="btn btn-primary" to="/store/rumahpondokindahmelati">View Details</NuxtLink>
             </div>
           </div>
         </div>

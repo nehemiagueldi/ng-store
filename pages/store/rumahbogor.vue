@@ -50,6 +50,8 @@
                 <p class="text-accent font-mono">> Luas Bangunan : 194 m2</p>
                 <p class="text-accent font-mono">> Kamar Tidur : 3</p>
                 <p class="text-accent font-mono">> Kamar Mandi : 2</p>
+                <p class="text-accent font-mono">> Listrik : 2200 Watt</p>
+                <p class="text-accent font-mono">> Air : PDAM</p>
                 <p class="text-accent font-mono">> Sertifikat : Sertifikat Hak Milik (SHM)</p>
                 <p class="text-accent font-mono">> Kondisi : Baru</p>
               </div>
