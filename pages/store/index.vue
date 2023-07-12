@@ -29,6 +29,34 @@ const items = ref([
     description: "DiKontrak Rumah 1 Lantai Strategis dengan Suasana Tenang dan Nyaman",
     link: "/store/rumahkemangregency",
   },
+  {
+    id: 5,
+    image: "cajonhomemade1.jpg",
+    title: "DiJual Cajon Home Made",
+    description: "DiJual Cajon Home Made Bekas ± 2 Bulan Pemakaian dan Berkualitas",
+    link: "/store/cajonhomemade",
+  },
+  {
+    id: 6,
+    image: "cairankimia1.jpg",
+    title: "Cairan Kimia Pembersih Karat",
+    description: "DiJual Cairan Kimia Pembersih Alat Berbahan Alumunium dan Besi",
+    link: "/store/cairankimia",
+  },
+  {
+    id: 7,
+    image: "aluminiumroll1.jpg",
+    title: "Aluminium Foil Roll",
+    description: "DiJual Aluminium Foil Roll untuk Kebutuhan Rumah Tangga dan Industri",
+    link: "/store/aluminiumroll",
+  },
+  {
+    id: 8,
+    image: "acrylic1.jpg",
+    title: "Acrylic Bening Baru",
+    description: "DiJual Acrylic Bening Baru untuk Kebutuhan Rumah Tangga dan Industri",
+    link: "/store/acrylic",
+  },
   // Add more items as needed
 ]);
 
@@ -72,7 +100,7 @@ function changePage(page) {
         <!-- Display items based on the active page -->
         <div v-for="row in displayedItems" :key="rowIndex" class="flex items-center justify-center gap-5 flex-wrap">
           <div v-for="item in row" :key="item.id" class="card w-[19.5rem] sm:w-80 md:w-96 bg-base-100 shadow-xl py-3">
-            <figure><img :src="item.image" :alt="item.title" class="w-[325px] h-[325px] md:w-[385px] md:h-[385px]" /></figure>
+            <figure><img :src="item.image" :alt="item.title" class="w-[325px] h-[355px] md:w-[385px] md:h-[435px]" /></figure>
             <div class="card-body">
               <h2 class="card-title text-lg md:text-xl">{{ item.title }}</h2>
               <p class="text-sm md:text-base">{{ item.description }}</p>

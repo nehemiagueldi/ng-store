@@ -7,7 +7,7 @@ definePageMeta({
 
 <style>
 .backgroundimg{
-  background-image: url(../public/landingpage.jpg);
+  background-image: url(../public/landingpage3.jpg);
   background-size: cover;
 }
 

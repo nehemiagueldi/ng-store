@@ -7,10 +7,10 @@ const selectedAccordion = ref("1");
     <!-- HERO -->
     <div class="hero min-h-screen bg-base-200 pt-20 md:pt-10">
       <div class="hero-content flex-col lg:flex-row-reverse">
-        <img src="/heroimg1.jpg" class="max-w-[18rem] md:max-w-sm rounded-lg shadow-2xl w-[450px] h-[600]" />
+        <img src="/gifherohome.gif" class="max-w-[18rem] md:max-w-sm rounded-lg shadow-2xl w-[450px] h-[600]" />
         <div class="text-center lg:text-left">
           <h1 class="text-3xl lg:text-5xl font-bold">NG STORE</h1>
-          <p class="py-6 md:pr-6">Explore NG Store, an innovative online marketplace offering livable houses, used goods, and more. With a wide range of products and affordable options, we cater to diverse needs and provide a delightful shopping experience. Our commitment lies in providing top-notch merchandise that is both functional and affordable. Whether you're searching for a cozy home or unique pre-owned items.</p>
+          <p class="py-6 md:pr-6">Explore NG Store, an innovative online marketplace offering livable houses, used goods, and more. With a wide range of products and affordable options, <w></w>e cater to diverse needs and provide a delightful shopping experience. Our commitment lies in providing top-notch merchandise that is both functional and affordable. Whether you're searching for a cozy home or unique pre-owned items.</p>
           <NuxtLink class="btn btn-primary" to="/store">Let's Explore</NuxtLink>
         </div>
       </div>
