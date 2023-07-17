@@ -99,8 +99,8 @@ function changePage(page) {
       <div class="flex justify-center items-center gap-4 pt-3 px-3 md:px-0 flex-wrap">
         <!-- Display items based on the active page -->
         <div v-for="row in displayedItems" :key="rowIndex" class="flex items-center justify-center gap-5 flex-wrap">
-          <div v-for="item in row" :key="item.id" class="card w-[19.5rem] sm:w-80 md:w-96 bg-base-100 shadow-xl py-3">
-            <figure><img :src="item.image" :alt="item.title" class="w-[325px] h-[355px] md:w-[385px] md:h-[435px]" /></figure>
+          <div v-for="item in row" :key="item.id" class="card w-full md:w-1/2 lg:w-1/3 bg-base-100 shadow-xl py-3"> <!--before : class="card w-[19.5rem] sm:w-80 md:w-96-->
+            <figure><img :src="item.image" :alt="item.title" class="w-[325px] h-[355px] md:w-[385px] md:h-[435px] rounded-xl" /></figure>
             <div class="card-body">
               <h2 class="card-title text-lg md:text-xl">{{ item.title }}</h2>
               <p class="text-sm md:text-base">{{ item.description }}</p>

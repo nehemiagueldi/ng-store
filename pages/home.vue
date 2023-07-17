@@ -86,6 +86,13 @@ const selectedAccordion = ref("1");
             <p class="text-sm md:text-lg">Of course, you can directly discuss further with the seller via Whatsapp</p>
           </div>
         </div>
+        <div class="collapse collapse-arrow bg-base-200">
+          <input type="radio" name="my-accordion-2" v-model="selectedAccordion" value="4" />
+          <div class="collapse-title text-base md:text-xl font-medium">Is the price negotiable?</div>
+          <div class="collapse-content">
+            <p class="text-sm md:text-lg">Of course, all items displayed, the price is negotiable, please contact the seller directly to negotiate the price</p>
+          </div>
+        </div>
       </div>
     </div>
     <!-- CONTACT -->
