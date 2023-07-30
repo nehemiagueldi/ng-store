@@ -25,7 +25,7 @@ const selectedAccordion = ref("1");
             <h2 class="card-title text-lg md:text-xl">Rumah Pondok Melati Indah</h2>
             <p class="text-sm md:text-base">Di Jual Rumah Daerah Pondok Melati Indah Strategis</p>
             <div class="card-actions justify-end">
-              <NuxtLink class="btn btn-primary" to="/store/rumahpondokindahmelati">View Details</NuxtLink>
+              <NuxtLink class="btn btn-primary" to="/store/rumahpondokindahmelati">See Details</NuxtLink>
             </div>
           </div>
         </div>
@@ -35,7 +35,7 @@ const selectedAccordion = ref("1");
             <h2 class="card-title text-lg md:text-xl">Rumah Daerah Kab.Bandung</h2>
             <p class="text-sm md:text-base">Di Jual Rumah Daerah Kab.Bandung Strategis Bebas Banjir</p>
             <div class="card-actions justify-end">
-              <NuxtLink class="btn btn-primary" to="/store/rumahbandung">View Details</NuxtLink>
+              <NuxtLink class="btn btn-primary" to="/store/rumahbandung">See Details</NuxtLink>
             </div>
           </div>
         </div>
@@ -45,7 +45,7 @@ const selectedAccordion = ref("1");
             <h2 class="card-title text-lg md:text-xl">Rumah Minimalis Daerah Bogor</h2>
             <p class="text-sm md:text-base">Di Jual Rumah Minimalis 2 Lantai Strategis dengan Suasana Tenang dan Nyaman</p>
             <div class="card-actions justify-end">
-              <NuxtLink class="btn btn-primary" to="/store/rumahbogor">View Details</NuxtLink>
+              <NuxtLink class="btn btn-primary" to="/store/rumahbogor">See Details</NuxtLink>
             </div>
           </div>
         </div>

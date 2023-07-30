@@ -28,6 +28,9 @@
               <div class="carousel-item">
                 <img src="/rumahbandung6.png" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
               </div>
+              <div class="carousel-item">
+                <img src="/rumahbandung7.png" class="rounded-box w-64 md:w-80 h-80 md:h-96 object-cover" />
+              </div>
             </div>
             <!-- INFO FOR SLIDE IMAGE -->
             <div class="mt-4 space-y-1 border rounded-xl shadow-md">
@@ -67,8 +70,9 @@
 
               <!-- MAP -->
               <div>
+                <h2 class="font-semibold text-lg md:text-xl mb-2 text-center uppercase">Lokasi Rumah</h2>
                 <NuxtLink to="https://goo.gl/maps/UdVQ5jf2CmBcAX8p9" target="_blank">
-                  <img src="/lokasirumahbandung.png" alt="Lokasi Rumah" class="w-96 mx-auto justify-center rounded-md object-cover" />
+                  <img src="/lokasirumahbandung.png" alt="Lokasi Rumah" class="w-96 mx-auto hover:scale-105 duration-300 transition ease-in-out justify-center rounded-md object-cover" />
                 </NuxtLink>
               </div>
 
@@ -86,8 +90,8 @@
               <!-- CONTACT -->
               <div class="text-center">
                 <h2 class="font-semibold text-base md:text-lg">Jika Anda memiliki pertanyaan atau ingin negosiasi harga, silahkan langsung menghubungi penjual melalui WhatsApp dengan mengklik tombol di bawah ini.</h2>
-                <NuxtLink class="btn btn-accent mt-2" target="_blank" to="https://wa.me/6287715361610?text=Halo, Saya ingin bertanya mengenai Rumah Daerah Kab. Bandung"> <img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/whatsapp.png" alt="whatsapp" /> Contact Seller </NuxtLink>
-                <h2 class="font-semibold text-base mt-1 md:text-lg">a.n. Gideon (Bapak)</h2>
+                <NuxtLink class="btn btn-accent mt-2" target="_blank" to="https://wa.me/6285155012135?text=Halo, Saya ingin bertanya mengenai Rumah Daerah Kab. Bandung"> <img width="24" height="24" src="https://img.icons8.com/3d-fluency/94/whatsapp.png" alt="whatsapp" /> Contact Seller </NuxtLink>
+                <h2 class="font-semibold text-base mt-1 md:text-lg">a.n. Nehemia (Bapak)</h2>
               </div>
             </div>
           </div>

@@ -105,7 +105,7 @@ function changePage(page) {
               <h2 class="card-title text-lg md:text-xl">{{ item.title }}</h2>
               <p class="text-sm md:text-base">{{ item.description }}</p>
               <div class="card-actions justify-end">
-                <NuxtLink class="btn btn-primary" :to="item.link">View Details</NuxtLink>
+                <NuxtLink class="btn btn-primary" :to="item.link">See Details</NuxtLink>
               </div>
             </div>
           </div>

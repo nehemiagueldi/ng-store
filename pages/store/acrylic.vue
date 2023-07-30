@@ -63,8 +63,9 @@
 
               <!-- MAP -->
               <div>
+                <h2 class="font-semibold text-lg md:text-xl mb-2 text-center uppercase">Lokasi</h2>
                 <NuxtLink to="https://goo.gl/maps/QKentkADMYFKYaMQ7" target="_blank">
-                  <img src="/lokasiacrylic.png" alt="Lokasi Rumah" class="w-96 mx-auto justify-center rounded-md object-cover" />
+                  <img src="/lokasiacrylic.png" alt="Lokasi Rumah" class="w-96 mx-auto hover:scale-105 duration-300 transition ease-in-out justify-center rounded-md object-cover" />
                 </NuxtLink>
               </div>
 
