@@ -7,7 +7,7 @@
           <div class="flex justify-center flex-col items-center px-4 py-5 bg-base-200">
             <!-- TITLE AND PRICE -->
             <h1 class="text-center font-bold text-2xl md:text-3xl mb-3 uppercase">Rumah Daerah Bogor</h1>
-            <h1 class="text-center font-bold text-xl md:text-3xl mb-3 uppercase">Rp 1.600.000.000</h1>
+            <h1 class="text-center font-bold text-xl md:text-3xl mb-3 uppercase">Rp 1.200.000.000</h1>
             <!-- IMAGE -->
             <div class="carousel carousel-center max-w-md p-4 space-x-4 bg-neutral items-center rounded-box">
               <div class="carousel-item">
